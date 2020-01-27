@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash=Hash.new
-  my_hash['Name']=>'Owen'
+  my_hash['Name'] ='Owen'
   return my_hash
 end
 
