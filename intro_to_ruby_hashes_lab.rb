@@ -9,6 +9,8 @@ def my_hash
 end
 
 def pioneer
+  pioneer = {:name = 'Grace Hopper'}
+  return pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
